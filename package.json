@@ -1,0 +1,17 @@
+{
+  "name": "tarea7-back",
+  "version": "1.0.0",
+  "description": "backend tarea7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "author": "Jonathan Corado",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
